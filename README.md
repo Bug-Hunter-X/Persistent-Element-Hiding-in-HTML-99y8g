@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML where an element is hidden via JavaScript but never shown again. The bug involves hiding a div element using display: none, but there's no code to reverse this action.  The solution includes adding code to show the div again, restoring the functionality.
